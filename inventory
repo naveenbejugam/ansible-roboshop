@@ -6,3 +6,24 @@ catalogue.joindevops.website
 
 [web]
 web.joindevops.website
+
+[redis]
+redis.joindevops.website
+
+[user]
+user.joindevops.website
+
+[cart]
+cart.joindevops.website
+
+[mysql]
+mysql.joindevops.website
+
+[shipping]
+shipping.joindevops.website
+
+[rabbitmq]
+rabbitmq.joindevops.website
+
+[payment]
+payment.joindevops.website
